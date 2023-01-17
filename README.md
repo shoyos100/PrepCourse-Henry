@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba modulo 2 henry
+Este proyecto es una rube de como crear un 
